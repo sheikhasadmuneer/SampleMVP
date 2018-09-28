@@ -1,5 +1,8 @@
 # MVP Android
 
+Description as written by : vAlmaraz
+https://github.com/vAlmaraz
+
 The project is a basic example about MVP for Android.
 This README will explain as a tutorial how to achieve my personal MVP implementation.
 
